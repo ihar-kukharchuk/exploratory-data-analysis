@@ -78,3 +78,6 @@ Perhaps it is better to use somewhere boxplots or histograms, but it is also pos
 
 #### The answer to question 1
 ![plot 1](plot1.png)
+
+#### The answer to question 2
+![plot 2](plot2.png)
