@@ -77,7 +77,19 @@ For each plot you should
 Perhaps it is better to use somewhere boxplots or histograms, but it is also possible to answer questions using usual plots.
 
 #### The answer to question 1
+```
+> source("plot1.R");
+```
 ![plot 1](plot1.png)
 
 #### The answer to question 2
+```
+> source("plot2.R");
+```
 ![plot 2](plot2.png)
+
+#### The answer to question 3
+```
+> source("plot3.R");
+```
+![plot 3](plot3.png)
