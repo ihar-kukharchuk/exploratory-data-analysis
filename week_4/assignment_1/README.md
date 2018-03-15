@@ -99,3 +99,9 @@ Perhaps it is better to use somewhere boxplots or histograms, but it is also pos
 > source("plot4.R");
 ```
 ![plot 4](plot4.png)
+
+#### The answer to question 5
+```
+> source("plot5.R");
+```
+![plot 5](plot5.png)
